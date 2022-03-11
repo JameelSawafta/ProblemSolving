@@ -9,3 +9,5 @@
 4- PetyaAndStrings : https://codeforces.com/group/yg7WhsFsAp/contest/355490/problem/P04
 
 5- Football : https://codeforces.com/group/yg7WhsFsAp/contest/355490/problem/P05
+
+6- HelpfulMaths : https://codeforces.com/group/yg7WhsFsAp/contest/355490/problem/P06
