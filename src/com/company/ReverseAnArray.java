@@ -11,6 +11,7 @@ public class ReverseAnArray {
             x[i]= ss.nextInt();
         }
         for (int i = (in-1); i >= 0; i--) {
+
             System.out.println(x[i]);
         }
     }
