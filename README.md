@@ -13,3 +13,7 @@
 6- HelpfulMaths : https://codeforces.com/group/yg7WhsFsAp/contest/355490/problem/P06
 
 7- StringTask : https://codeforces.com/group/yg7WhsFsAp/contest/355490/problem/P07
+
+8- Cashier : https://codeforces.com/group/yg7WhsFsAp/contest/355490/problem/P08
+
+9- PhoneNumbers : https://codeforces.com/group/yg7WhsFsAp/contest/355490/problem/P09
