@@ -1,5 +1,7 @@
 package com.company;
 
+//https://codeforces.com/group/yg7WhsFsAp/contest/355490/problem/P05
+
 import java.util.Scanner;
 
 public class Football {
